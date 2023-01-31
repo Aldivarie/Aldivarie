@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aldivarie
-- 👀 I’m interested in Frontend
+- 👀 I’m interested in Frontend and UI & UX
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Frontend Project
 - 📫 How to reach me aldivarie38@gmail.com
